@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Hunter Drummond
 
-# Your Github username
+# Hunter-Drum
